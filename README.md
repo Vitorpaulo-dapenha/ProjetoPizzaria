@@ -8,36 +8,70 @@
 </div>
 
 
-### Este projeto é a criação de um site para uma Pizzaria ficticia.
+# Disk Pizza
 
-<p> 
-    <img width="1000" height="600" src="src/gif7.gif" >
-</p>
+Bem-vindo ao **Disk Pizza**, um site desenvolvido para uma pizzaria fictícia, projetado para proporcionar uma experiência agradável e prática aos clientes. Aqui, você pode explorar o cardápio, conhecer mais sobre a empresa e realizar pedidos com facilidade.
 
+## Funcionalidades
 
-### Para o desenvolvimento desse projeto foram desenvolvidas diversas habilidades com CSS, HTML e JS.
+- **Home:** Página inicial com uma mensagem acolhedora e botões para facilitar a navegação.
+- **Sobre Nós:** Informações sobre a pizzaria e sua missão.
+- **Cardápio:** Exibição visual e organizada das pizzas disponíveis, com preços variados.
+- **Contatos:** Dados de contato e redes sociais da pizzaria.
+- **Redes Sociais:** Ícones para acesso rápido ao Instagram e Facebook.
+- **Carrinho:** Ícone do carrinho de compras para futuros aprimoramentos.
 
-### Nele existem questões referentes a posicionamento de elementos, display grid, flex, hover entre outros.
+## Tecnologias Utilizadas
 
-### Cada sessão do site consta no menu superior e ao clicar em cada parte o úsuario é navegado para a sessão.
+- **HTML5:** Estrutura do site.
+- **CSS3:** Estilização do layout.
+- **JavaScript:** Para funcionalidades dinâmicas.
+- **Font Awesome:** Ícones de redes sociais e outros elementos visuais.
 
-<p> 
-    <img width="1000" height="600" src="src/gif8.gif" >
-</p>
+## Estrutura de Arquivos
 
+```
+DiskPizza/
+│
+├── index.html          # Arquivo principal do site
+├── style.css           # Estilos personalizados
+├── script.js           # Scripts para funcionalidades interativas
+├── img/                # Imagens utilizadas no projeto
+│   ├── pngtree-cartoon-yellow-pizza-illustration.png
+│   ├── fotoCozinha.jpg
+│   ├── frango-removebg-preview.png
+│   ├── calabresa-removebg-preview.png
+│   ├── ...             # Demais imagens do cardápio
+│
+└── README.md           # Documentação do projeto
+```
 
-### Este projeto é responsivo, o javascript auxiliou para a criação de um menu hamburguer para telas menores.
+## Como Executar o Projeto
 
-<p> 
-    <img width="1000" height="600" src="src/gif9.gif" >
-</p>
+1. Clone este repositório em sua máquina local:
+   ```bash
+   git clone <https://github.com/Vitorpaulo-dapenha/ProjetoPizzaria.git>
+   ```
+2. Abra o arquivo `index.html` em qualquer navegador.
 
+## Pré-visualização
 
-### e o display grid para o possicionamento do cardápio
+O site apresenta:
 
-<p> 
-    <img width="1000" height="600" src="src/gif10.gif" >
-</p>
+- Uma página inicial atraente com botões de ação.
+- Uma seção "Sobre Nós" explicando a história e os valores da pizzaria.
+- Um cardápio com pizzas tradicionais e doces, apresentadas com imagens e preços.
+- Informações de contato e links para redes sociais.
+
+## Autor
+
+**Vitor Paulo da Penha**  
+Desenvolvedor Full Stack apaixonado por criar experiências digitais únicas.  
+[LinkedIn](https://linkedin.com/in/vitorpaulodapenha) | [GitHub](https://github.com/vitorpaulo027)
+
+## Licença
+
+Este projeto é de uso livre para fins educacionais e pode ser adaptado para outros propósitos.
 
 
 
